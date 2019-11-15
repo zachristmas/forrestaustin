@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from './photo.jpeg';
+import Image from './photo.png';
 import './App.css';
 
 function App() {
@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={Image} className="App-logo" alt="logo" />
         <p>
-          Forrest is the greatest
-          -Zach
+          Fuck you.
+          -Forrest
         </p>
         <a
           className="App-link"
