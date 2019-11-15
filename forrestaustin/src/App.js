@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="google.com"
+          href="http://www.google.com"
           target="_blank"
         >
           Learn Stuff
