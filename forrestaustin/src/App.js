@@ -13,9 +13,8 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="www.google.com"
+          href="google.com"
           target="_blank"
-          rel="noopener noreferrer"
         >
           Learn Stuff
         </a>
