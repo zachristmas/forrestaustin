@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src='https://raw.githubusercontent.com/zachristmas/forrestaustin/master/forrestaustin/public/photo.jpeg' className="App-logo" alt="logo" />
+        <img src='photo.jpeg' className="App-logo" alt="logo" />
         <p>
           Forrest is the greatest
           -Zach
