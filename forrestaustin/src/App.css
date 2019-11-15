@@ -4,6 +4,7 @@
 
 .App-logo {
   height: 100vmin;
+  box-shadow: 25px 25px 50px 0 black inset, -25px -25px 50px 0 black inset;
 }
 
 .App-header {
