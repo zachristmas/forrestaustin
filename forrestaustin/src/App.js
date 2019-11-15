@@ -8,6 +8,7 @@ function App() {
         <img src='https://raw.githubusercontent.com/zachristmas/forrestaustin/master/forrestaustin/public/photo.jpeg?token=AGJKO4INCQMWETNTSWS5HDK5ZX4YK' className="App-logo" alt="logo" />
         <p>
           Forrest is the greatest
+          -Zach
         </p>
         <a
           className="App-link"
