@@ -15,6 +15,7 @@ function App() {
           className="App-link"
           href="http://www.google.com"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Learn Stuff
         </a>
